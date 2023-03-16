@@ -24,7 +24,8 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 32rem;
+  /* height: 32rem; */
+  height: 240px;
 }
 
 
@@ -67,7 +68,7 @@ body {
   .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
-    line-height: 1.4;
+
   }
 
   .featurette-heading {
